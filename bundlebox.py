@@ -12,7 +12,7 @@ def verify():
 def hello():
     '''Verify that the application is expecting notifactions from dropbox webhooks by returing the challenge'''
 
-    return "Hello World"
+    return "Hello World!"
 
 
 if __name__ == "__main__":
